@@ -1,0 +1,19 @@
+{
+    "name": "AvrLib",
+    "version": "0.2.0",
+    "description": "Porting some common avr macros and functions to Arduino platform, to enable native access to AtMega hardware.",
+    "keywords": "atmega",
+    "license": "MIT",
+    "authors": {
+	"name": "Stefan Hepp",
+	"url": "https://github.com/stefanhepp/",
+	"maintainer": true
+    },
+    "repository":
+    {
+	"type": "git",
+	"url": "https://github.com/stefanhepp/AvrLib.git"
+    },
+    "frameworks": "arduino",
+    "platforms": [ "atmelavr" ]
+}
